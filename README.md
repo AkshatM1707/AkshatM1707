@@ -3,7 +3,6 @@
 Currently Working On:<br><br>
 Building scalable full-stack applications with **Next.js, Node.js, and modern database stacks**, focusing on backend architecture and system reliability.<br><br>
 Designing **custom internal platforms, data processing pipelines, and high-performance APIs** that handle real-world workloads and large volumes of data.<br><br>
-Developing systems that integrate **AI-assisted processing and contextual analysis** for structured insights from emails, transcripts, and other unstructured data.<br><br>
 
 Currently Learning:<br><br>
 **System Design and Distributed Systems**, including service communication patterns, event-driven architectures, and scalable backend design.<br><br>
