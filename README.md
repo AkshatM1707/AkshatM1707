@@ -1,5 +1,20 @@
 # 💫 About Me:
- Currently Working On:<br><br>Building full-stack projects using the MERN stack with Next.js.<br><br>Developing custom dashboards, scalable APIs, and experimenting with modern backend tools.<br><br>Practicing Bug Bounties and exploring Web Application Security vulnerabilities through hands-on labs and CTFs.<br><br> Currently Learning:<br><br>Advanced Server-side concepts: Edge functions, API performance optimization, and scalable microservices.<br><br>Deepening my knowledge of Red Teaming techniques, Web Exploitation, and secure coding practices.<br><br> Ask Me About:<br><br>Backend Development using Node.js, Express, MongoDB, and Next.js.<br><br>How to break into websites (legally!) and find security flaws 👾.<br><br>Setting up secure and optimized server architectures.
+
+Currently Working On:<br><br>
+Building scalable full-stack applications with **Next.js, Node.js, and modern database stacks**, focusing on backend architecture and system reliability.<br><br>
+Designing **custom internal platforms, data processing pipelines, and high-performance APIs** that handle real-world workloads and large volumes of data.<br><br>
+Developing systems that integrate **AI-assisted processing and contextual analysis** for structured insights from emails, transcripts, and other unstructured data.<br><br>
+
+Currently Learning:<br><br>
+**System Design and Distributed Systems**, including service communication patterns, event-driven architectures, and scalable backend design.<br><br>
+Infrastructure concepts such as **containerization, CI/CD pipelines, observability, and cloud deployment strategies**.<br><br>
+Advanced **API performance optimization, caching strategies, and backend scalability techniques**.<br><br>
+
+Ask Me About:<br><br>
+Designing and building **scalable backend systems, APIs, and data-driven platforms**.<br><br>
+Backend development with **Node.js, Express, Next.js, PostgreSQL, and modern backend tooling**.<br><br>
+**System design, infrastructure considerations, and backend architecture patterns**.<br><br>
+**Web application security, vulnerability discovery, and bug bounty methodologies**.
 
 
 ## 🌐 Socials:
